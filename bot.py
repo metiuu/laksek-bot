@@ -4,7 +4,7 @@ import discord
 from discord.ext import commands, tasks
 
 client = commands.Bot(command_prefix= '.')
-token = 'YOUR TOKEN HERE'
+token = 'INSERT TOKEN HERE'
 
 # cogs
 @client.command()
